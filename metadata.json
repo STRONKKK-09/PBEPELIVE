@@ -1,0 +1,6 @@
+{
+  "name": "Sistem DO Broiler PBEPE",
+  "description": "Sistem pengelolaan Delivery Order (DO), penimbangan armada, dan portal kemitraan sales ayam broiler PBEPE.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
